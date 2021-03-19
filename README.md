@@ -1,4 +1,8 @@
-# Future Eats 7
+# Future Eats
+
+## Link do Surge: 
+<https://dumont-labe-food7.surge.sh>
+
 
 # Nome dos integrantes: 
 Daltro Machado
@@ -68,9 +72,6 @@ Atalhos
 * Pedido em andamento
 Renderiza as informações do pedido em andamento como Nome do restaurante e Subtotal.
 
-# O que não funciona: 
 
 
-## Link do Surge: 
-<https://dumont-labe-food7.surge.sh>
 ---
